@@ -9,3 +9,4 @@ A simple yet expansive catalog of Nintendo homebrew, CFW, and payloads. This is 
 A word of warning: Do NOT follow a hacking guide you find on YouTube or another video-sharing platform. They put you and your device in unnecessary danger. Use the guides listed above instead 
 
 
+Go to the catalog [here](fierymewtwo.github.io/hbpackages-fileserver/resources/homebrew)

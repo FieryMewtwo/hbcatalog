@@ -2,7 +2,7 @@ title: Homebrew Catalog Frontend by fierymewtwo
 description: A homebrew catalog built entirely on GitHub Pages
 social_link: instagram
 social_username: mochathebeardie
-github_repo: hbrepo
+github_repo: hbpackages-fileserver
 github_username: FieryMewtwo
 theme_color: black
 remote_theme: internet-de-france/swiss
